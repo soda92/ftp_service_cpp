@@ -1,0 +1,17 @@
+/build
+.vscode
+*.tar.gz
+/libncftp*
+
+*.o
+*.so
+*.a
+*.lib
+*.obj
+*.exe
+
+config.txt
+config.json
+
+temp
+tmp
